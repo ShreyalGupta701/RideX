@@ -89,4 +89,4 @@ module.exports.getCaptainsInTheRadius = async (ltd, lng, radius) => {
     return captains;
 
 
-}s
+}

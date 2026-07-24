@@ -60,4 +60,3 @@ console.log(messageObject);
 }
 
 module.exports = { initializeSocket, sendMessageToSocketId };
-}
