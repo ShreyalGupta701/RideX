@@ -148,6 +148,7 @@ The application follows a client-server architecture with a React frontend commu
                     └─────────────────────┘
 
 ---
+```
 
 ## 🧪 API Endpoints
 
